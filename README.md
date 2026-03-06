@@ -1,7 +1,8 @@
 # CSS Color Markers
 
 This is a simple project built with HTML and CSS that recreates colorful markers using pure CSS.
-Live demo https://nada042.github.io/ColoredMarkers/
+
+## live demo https://nada042.github.io/ColoredMarkers/
 
 ## What I Practiced
 - CSS Gradients
